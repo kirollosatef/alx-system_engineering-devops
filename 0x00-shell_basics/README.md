@@ -15,3 +15,11 @@
   # This script lists the files in the current directory
   ls
 ```
+
+## change directory
+
+``` bash
+  #!/bin/bash
+  # This script changes the working directory to the user's home directory
+  cd
+```
